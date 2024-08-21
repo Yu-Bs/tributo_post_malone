@@ -1,0 +1,86 @@
+html {
+    font-family: Helvetica;
+    background-color: black;
+}
+
+.container {
+    background-color: gray;
+    max-width: 1100px;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.header {
+    text-align: center;
+}
+
+.titulo {
+    font-size: 40px;
+}
+
+.sub-titulo {
+    font-style: italic;
+}
+
+.img-perfil {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.img-perfil img {
+    height: 600px;
+    width: 600px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.biografia {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.lyrics {
+    background-color: #ddd;
+    padding: 30px;
+}
+
+.lyrics blockquote {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.lyrics p {
+    font-style: italic;
+}
+
+.albuns {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.albuns li {
+    padding: 5px
+}
+
+.img-show {
+    text-align: center;
+    font-weight: bold;
+}
+
+.img-show img {
+    border: 1px solid white;
+    border-radius: 10px;
+}
